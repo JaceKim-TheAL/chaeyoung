@@ -31,8 +31,8 @@
 
 <table>
   <tr align="center">
-    <td><img src="../img/큐브의종류.png" width="400"> </td>
-    <td><img src="../img/큐브맞추기.png" width="400"> </td>
+    <td><img src="../img/큐브의종류.png" width="400"></td>
+    <td><img src="../img/큐브맞추기.png" width="400"></td>
   </tr>
 </table>
 
