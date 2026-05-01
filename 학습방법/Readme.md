@@ -29,7 +29,13 @@
 - 문제를 하나씩 해결하며 최종 목표에 도달하는 방식
 - 어려운 문제를 해결하면 쉬운 문제는 저절로 해결된다!!
 
-<img src="../img/큐빅.png" width="400">
+<table>
+  <tr align="center">
+    <td><img src="../img/큐브의종류.png" width="400"> </td>
+    <td><img src="../img/큐브맞추기.png" width="400"> </td>
+  </tr>
+</table>
+
 
 ---
 
