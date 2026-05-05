@@ -13,8 +13,8 @@
 
 <table>
   <tr align="center">
-    <td width="150">가족</td>
-    <td width="650">좌우명</td>
+    <td width="150"><b>가족</b></td>
+    <td width="650"><b>좌우명</b></td>
   </tr>
   <tr>
     <td align="center">아빠</td>
