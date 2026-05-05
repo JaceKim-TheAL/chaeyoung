@@ -17,14 +17,14 @@
     <td width="650"><b>좌우명</b></td>
   </tr>
   <tr>
-    <td align="center">아빠</td>
+    <td align="center"><b>아빠</b></td>
     <td>
-      克己常進 (克:이길 극, 己:자가자신 기, 常:항상 상, 進:나아길 진) <br/>
+      극기상진, 克己常進 (克:이길 극, 己:자가자신 기, 常:항상 상, 進:나아길 진) <br/>
       나 자신을 이기고, 항상 앞으로 나아가자!
     </td>
   </tr>
   <tr>
-    <td align="center">찬영</td>
+    <td align="center"><b>찬영</b></td>
     <td>
       꿈을 날짜와 함께 적어 놓으면 목표가 되고, <br/>
       목표를 잘게 나누면 그것은 계획이 되며 <br/>
@@ -32,14 +32,14 @@
     </td>
   </tr>
   <tr>
-    <td align="center">준영</td>
+    <td align="center"><b>준영</b></td>
     <td>
       미래는 꿈꾸는 자의 것이요 <br/>
       승리는 준비된 자의 몫이다
     </td>
   </tr>
   <tr>
-    <td align="center">채영</td>
+    <td align="center"><b>채영</b></td>
     <td>
       실수를 하지 않으려고 너무 애쓰지마라. <br/>
       중요한 것은 어떤 실수를 하던지간에 그것으로 부터 빨리 배우는 것이고, <br/>
